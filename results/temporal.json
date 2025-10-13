@@ -1,0 +1,692 @@
+[
+  {
+    "frame": "frame-000001.jpg",
+    "next_frame": "frame-000002.jpg",
+    "ssim": 0.9969875086592095
+  },
+  {
+    "frame": "frame-000002.jpg",
+    "next_frame": "frame-000003.jpg",
+    "ssim": 0.9996522092269772
+  },
+  {
+    "frame": "frame-000003.jpg",
+    "next_frame": "frame-000004.jpg",
+    "ssim": 0.9986884676542515
+  },
+  {
+    "frame": "frame-000004.jpg",
+    "next_frame": "frame-000005.jpg",
+    "ssim": 0.997593396757612
+  },
+  {
+    "frame": "frame-000005.jpg",
+    "next_frame": "frame-000006.jpg",
+    "ssim": 0.9970503040653417
+  },
+  {
+    "frame": "frame-000006.jpg",
+    "next_frame": "frame-000007.jpg",
+    "ssim": 0.9958497061239879
+  },
+  {
+    "frame": "frame-000007.jpg",
+    "next_frame": "frame-000008.jpg",
+    "ssim": 0.9956553744926008
+  },
+  {
+    "frame": "frame-000008.jpg",
+    "next_frame": "frame-000009.jpg",
+    "ssim": 0.9956058370706187
+  },
+  {
+    "frame": "frame-000009.jpg",
+    "next_frame": "frame-000010.jpg",
+    "ssim": 0.996154334397727
+  },
+  {
+    "frame": "frame-000010.jpg",
+    "next_frame": "frame-000011.jpg",
+    "ssim": 0.9962983881273343
+  },
+  {
+    "frame": "frame-000011.jpg",
+    "next_frame": "frame-000012.jpg",
+    "ssim": 0.9970403063366907
+  },
+  {
+    "frame": "frame-000012.jpg",
+    "next_frame": "frame-000013.jpg",
+    "ssim": 0.9911194610561254
+  },
+  {
+    "frame": "frame-000013.jpg",
+    "next_frame": "frame-000014.jpg",
+    "ssim": 0.9670346905590899
+  },
+  {
+    "frame": "frame-000014.jpg",
+    "next_frame": "frame-000015.jpg",
+    "ssim": 0.9430761200005622
+  },
+  {
+    "frame": "frame-000015.jpg",
+    "next_frame": "frame-000016.jpg",
+    "ssim": 0.9285841399473723
+  },
+  {
+    "frame": "frame-000016.jpg",
+    "next_frame": "frame-000017.jpg",
+    "ssim": 0.9337167920174448
+  },
+  {
+    "frame": "frame-000017.jpg",
+    "next_frame": "frame-000018.jpg",
+    "ssim": 0.9318184651871187
+  },
+  {
+    "frame": "frame-000018.jpg",
+    "next_frame": "frame-000019.jpg",
+    "ssim": 0.9303406729146565
+  },
+  {
+    "frame": "frame-000019.jpg",
+    "next_frame": "frame-000020.jpg",
+    "ssim": 0.9229732635921218
+  },
+  {
+    "frame": "frame-000020.jpg",
+    "next_frame": "frame-000021.jpg",
+    "ssim": 0.9256584076265355
+  },
+  {
+    "frame": "frame-000021.jpg",
+    "next_frame": "frame-000022.jpg",
+    "ssim": 0.9323408688524119
+  },
+  {
+    "frame": "frame-000022.jpg",
+    "next_frame": "frame-000023.jpg",
+    "ssim": 0.9370690615032109
+  },
+  {
+    "frame": "frame-000023.jpg",
+    "next_frame": "frame-000024.jpg",
+    "ssim": 0.9536643673970577
+  },
+  {
+    "frame": "frame-000024.jpg",
+    "next_frame": "frame-000025.jpg",
+    "ssim": 0.9426477182110932
+  },
+  {
+    "frame": "frame-000025.jpg",
+    "next_frame": "frame-000026.jpg",
+    "ssim": 0.9430399797821941
+  },
+  {
+    "frame": "frame-000026.jpg",
+    "next_frame": "frame-000027.jpg",
+    "ssim": 0.9437648200163179
+  },
+  {
+    "frame": "frame-000027.jpg",
+    "next_frame": "frame-000028.jpg",
+    "ssim": 0.9412639332621572
+  },
+  {
+    "frame": "frame-000028.jpg",
+    "next_frame": "frame-000029.jpg",
+    "ssim": 0.9522375071546396
+  },
+  {
+    "frame": "frame-000029.jpg",
+    "next_frame": "frame-000030.jpg",
+    "ssim": 0.9337017371218022
+  },
+  {
+    "frame": "frame-000030.jpg",
+    "next_frame": "frame-000031.jpg",
+    "ssim": 0.9213663171776595
+  },
+  {
+    "frame": "frame-000031.jpg",
+    "next_frame": "frame-000032.jpg",
+    "ssim": 0.9653449535298879
+  },
+  {
+    "frame": "frame-000032.jpg",
+    "next_frame": "frame-000033.jpg",
+    "ssim": 0.9319061492462963
+  },
+  {
+    "frame": "frame-000033.jpg",
+    "next_frame": "frame-000034.jpg",
+    "ssim": 0.9189292108716391
+  },
+  {
+    "frame": "frame-000034.jpg",
+    "next_frame": "frame-000035.jpg",
+    "ssim": 0.9344350861576695
+  },
+  {
+    "frame": "frame-000035.jpg",
+    "next_frame": "frame-000036.jpg",
+    "ssim": 0.9244364271889066
+  },
+  {
+    "frame": "frame-000036.jpg",
+    "next_frame": "frame-000037.jpg",
+    "ssim": 0.9279906584316251
+  },
+  {
+    "frame": "frame-000037.jpg",
+    "next_frame": "frame-000038.jpg",
+    "ssim": 0.9015630823576182
+  },
+  {
+    "frame": "frame-000038.jpg",
+    "next_frame": "frame-000039.jpg",
+    "ssim": 0.9277070030412874
+  },
+  {
+    "frame": "frame-000039.jpg",
+    "next_frame": "frame-000040.jpg",
+    "ssim": 0.8872175163644918
+  },
+  {
+    "frame": "frame-000040.jpg",
+    "next_frame": "frame-000041.jpg",
+    "ssim": 0.8784169452644861
+  },
+  {
+    "frame": "frame-000041.jpg",
+    "next_frame": "frame-000042.jpg",
+    "ssim": 0.8926546725473123
+  },
+  {
+    "frame": "frame-000042.jpg",
+    "next_frame": "frame-000043.jpg",
+    "ssim": 0.9032560504244532
+  },
+  {
+    "frame": "frame-000043.jpg",
+    "next_frame": "frame-000044.jpg",
+    "ssim": 0.892700170547982
+  },
+  {
+    "frame": "frame-000044.jpg",
+    "next_frame": "frame-000045.jpg",
+    "ssim": 0.8548702211581154
+  },
+  {
+    "frame": "frame-000045.jpg",
+    "next_frame": "frame-000046.jpg",
+    "ssim": 0.8609891779860541
+  },
+  {
+    "frame": "frame-000046.jpg",
+    "next_frame": "frame-000047.jpg",
+    "ssim": 0.8913309462381515
+  },
+  {
+    "frame": "frame-000047.jpg",
+    "next_frame": "frame-000048.jpg",
+    "ssim": 0.8496025915347706
+  },
+  {
+    "frame": "frame-000048.jpg",
+    "next_frame": "frame-000049.jpg",
+    "ssim": 0.8332596131014895
+  },
+  {
+    "frame": "frame-000049.jpg",
+    "next_frame": "frame-000050.jpg",
+    "ssim": 0.8237575534225713
+  },
+  {
+    "frame": "frame-000050.jpg",
+    "next_frame": "frame-000051.jpg",
+    "ssim": 0.8568551855002658
+  },
+  {
+    "frame": "frame-000051.jpg",
+    "next_frame": "frame-000052.jpg",
+    "ssim": 0.8542153239749486
+  },
+  {
+    "frame": "frame-000052.jpg",
+    "next_frame": "frame-000053.jpg",
+    "ssim": 0.8460049969053557
+  },
+  {
+    "frame": "frame-000053.jpg",
+    "next_frame": "frame-000054.jpg",
+    "ssim": 0.8424627903436871
+  },
+  {
+    "frame": "frame-000054.jpg",
+    "next_frame": "frame-000055.jpg",
+    "ssim": 0.8452948095127298
+  },
+  {
+    "frame": "frame-000055.jpg",
+    "next_frame": "frame-000056.jpg",
+    "ssim": 0.8578102672065612
+  },
+  {
+    "frame": "frame-000056.jpg",
+    "next_frame": "frame-000057.jpg",
+    "ssim": 0.8591239324784692
+  },
+  {
+    "frame": "frame-000057.jpg",
+    "next_frame": "frame-000058.jpg",
+    "ssim": 0.8838002747469202
+  },
+  {
+    "frame": "frame-000058.jpg",
+    "next_frame": "frame-000059.jpg",
+    "ssim": 0.9408407304407641
+  },
+  {
+    "frame": "frame-000059.jpg",
+    "next_frame": "frame-000060.jpg",
+    "ssim": 0.9638468459524718
+  },
+  {
+    "frame": "frame-000060.jpg",
+    "next_frame": "frame-000061.jpg",
+    "ssim": 0.8844568147047953
+  },
+  {
+    "frame": "frame-000061.jpg",
+    "next_frame": "frame-000062.jpg",
+    "ssim": 0.8238876630863672
+  },
+  {
+    "frame": "frame-000062.jpg",
+    "next_frame": "frame-000063.jpg",
+    "ssim": 0.8477363397264769
+  },
+  {
+    "frame": "frame-000063.jpg",
+    "next_frame": "frame-000064.jpg",
+    "ssim": 0.8345938922334849
+  },
+  {
+    "frame": "frame-000064.jpg",
+    "next_frame": "frame-000065.jpg",
+    "ssim": 0.8268023491430156
+  },
+  {
+    "frame": "frame-000065.jpg",
+    "next_frame": "frame-000066.jpg",
+    "ssim": 0.842746946552889
+  },
+  {
+    "frame": "frame-000066.jpg",
+    "next_frame": "frame-000067.jpg",
+    "ssim": 0.8268120962877192
+  },
+  {
+    "frame": "frame-000067.jpg",
+    "next_frame": "frame-000068.jpg",
+    "ssim": 0.8266664416736903
+  },
+  {
+    "frame": "frame-000068.jpg",
+    "next_frame": "frame-000069.jpg",
+    "ssim": 0.8052075051218478
+  },
+  {
+    "frame": "frame-000069.jpg",
+    "next_frame": "frame-000070.jpg",
+    "ssim": 0.7928995544590933
+  },
+  {
+    "frame": "frame-000070.jpg",
+    "next_frame": "frame-000071.jpg",
+    "ssim": 0.7873249463739951
+  },
+  {
+    "frame": "frame-000071.jpg",
+    "next_frame": "frame-000072.jpg",
+    "ssim": 0.7981227541926222
+  },
+  {
+    "frame": "frame-000072.jpg",
+    "next_frame": "frame-000073.jpg",
+    "ssim": 0.8216629954761401
+  },
+  {
+    "frame": "frame-000073.jpg",
+    "next_frame": "frame-000074.jpg",
+    "ssim": 0.8426137483782982
+  },
+  {
+    "frame": "frame-000074.jpg",
+    "next_frame": "frame-000075.jpg",
+    "ssim": 0.8384834678635239
+  },
+  {
+    "frame": "frame-000075.jpg",
+    "next_frame": "frame-000076.jpg",
+    "ssim": 0.8228232615578485
+  },
+  {
+    "frame": "frame-000076.jpg",
+    "next_frame": "frame-000077.jpg",
+    "ssim": 0.8664175656320893
+  },
+  {
+    "frame": "frame-000077.jpg",
+    "next_frame": "frame-000078.jpg",
+    "ssim": 0.9675257112267467
+  },
+  {
+    "frame": "frame-000078.jpg",
+    "next_frame": "frame-000079.jpg",
+    "ssim": 0.9991420355686176
+  },
+  {
+    "frame": "frame-000079.jpg",
+    "next_frame": "frame-000080.jpg",
+    "ssim": 0.9996685516371007
+  },
+  {
+    "frame": "frame-000080.jpg",
+    "next_frame": "frame-000081.jpg",
+    "ssim": 0.9998467336659204
+  },
+  {
+    "frame": "frame-000081.jpg",
+    "next_frame": "frame-000082.jpg",
+    "ssim": 0.9999277058188721
+  },
+  {
+    "frame": "frame-000082.jpg",
+    "next_frame": "frame-000083.jpg",
+    "ssim": 0.9998232998495962
+  },
+  {
+    "frame": "frame-000083.jpg",
+    "next_frame": "frame-000084.jpg",
+    "ssim": 0.999950058078457
+  },
+  {
+    "frame": "frame-000084.jpg",
+    "next_frame": "frame-000085.jpg",
+    "ssim": 0.9999438838981008
+  },
+  {
+    "frame": "frame-000085.jpg",
+    "next_frame": "frame-000086.jpg",
+    "ssim": 0.9999403169646481
+  },
+  {
+    "frame": "frame-000086.jpg",
+    "next_frame": "frame-000087.jpg",
+    "ssim": 0.9999781562462089
+  },
+  {
+    "frame": "frame-000087.jpg",
+    "next_frame": "frame-000088.jpg",
+    "ssim": 0.9998871005513377
+  },
+  {
+    "frame": "frame-000088.jpg",
+    "next_frame": "frame-000089.jpg",
+    "ssim": 0.9993134687579691
+  },
+  {
+    "frame": "frame-000089.jpg",
+    "next_frame": "frame-000090.jpg",
+    "ssim": 0.9999054162534804
+  },
+  {
+    "frame": "frame-000090.jpg",
+    "next_frame": "frame-000091.jpg",
+    "ssim": 0.9988337000323154
+  },
+  {
+    "frame": "frame-000091.jpg",
+    "next_frame": "frame-000092.jpg",
+    "ssim": 0.999585298023359
+  },
+  {
+    "frame": "frame-000092.jpg",
+    "next_frame": "frame-000093.jpg",
+    "ssim": 0.9999848502350867
+  },
+  {
+    "frame": "frame-000093.jpg",
+    "next_frame": "frame-000094.jpg",
+    "ssim": 0.9999298073823992
+  },
+  {
+    "frame": "frame-000094.jpg",
+    "next_frame": "frame-000095.jpg",
+    "ssim": 0.999949017720983
+  },
+  {
+    "frame": "frame-000095.jpg",
+    "next_frame": "frame-000096.jpg",
+    "ssim": 0.999998275350949
+  },
+  {
+    "frame": "frame-000096.jpg",
+    "next_frame": "frame-000097.jpg",
+    "ssim": 0.9999492809944055
+  },
+  {
+    "frame": "frame-000097.jpg",
+    "next_frame": "frame-000098.jpg",
+    "ssim": 0.9999631929012768
+  },
+  {
+    "frame": "frame-000098.jpg",
+    "next_frame": "frame-000099.jpg",
+    "ssim": 0.9999903684911307
+  },
+  {
+    "frame": "frame-000099.jpg",
+    "next_frame": "frame-000100.jpg",
+    "ssim": 0.999997010715289
+  },
+  {
+    "frame": "frame-000100.jpg",
+    "next_frame": "frame-000101.jpg",
+    "ssim": 0.9999972534545457
+  },
+  {
+    "frame": "frame-000101.jpg",
+    "next_frame": "frame-000102.jpg",
+    "ssim": 0.9999994251309712
+  },
+  {
+    "frame": "frame-000102.jpg",
+    "next_frame": "frame-000103.jpg",
+    "ssim": 0.9999931466362192
+  },
+  {
+    "frame": "frame-000103.jpg",
+    "next_frame": "frame-000104.jpg",
+    "ssim": 0.999994560057746
+  },
+  {
+    "frame": "frame-000104.jpg",
+    "next_frame": "frame-000105.jpg",
+    "ssim": 1.0
+  },
+  {
+    "frame": "frame-000105.jpg",
+    "next_frame": "frame-000106.jpg",
+    "ssim": 0.999988874158683
+  },
+  {
+    "frame": "frame-000106.jpg",
+    "next_frame": "frame-000107.jpg",
+    "ssim": 0.9999897592568349
+  },
+  {
+    "frame": "frame-000107.jpg",
+    "next_frame": "frame-000108.jpg",
+    "ssim": 1.0
+  },
+  {
+    "frame": "frame-000108.jpg",
+    "next_frame": "frame-000109.jpg",
+    "ssim": 0.9999952839236379
+  },
+  {
+    "frame": "frame-000109.jpg",
+    "next_frame": "frame-000110.jpg",
+    "ssim": 0.9999869578785073
+  },
+  {
+    "frame": "frame-000110.jpg",
+    "next_frame": "frame-000111.jpg",
+    "ssim": 0.9999986405918188
+  },
+  {
+    "frame": "frame-000111.jpg",
+    "next_frame": "frame-000112.jpg",
+    "ssim": 0.9999996629574961
+  },
+  {
+    "frame": "frame-000112.jpg",
+    "next_frame": "frame-000113.jpg",
+    "ssim": 0.9999968151975858
+  },
+  {
+    "frame": "frame-000113.jpg",
+    "next_frame": "frame-000114.jpg",
+    "ssim": 0.9999977271091302
+  },
+  {
+    "frame": "frame-000114.jpg",
+    "next_frame": "frame-000115.jpg",
+    "ssim": 0.9999888969031485
+  },
+  {
+    "frame": "frame-000115.jpg",
+    "next_frame": "frame-000116.jpg",
+    "ssim": 0.9999891680994691
+  },
+  {
+    "frame": "frame-000116.jpg",
+    "next_frame": "frame-000117.jpg",
+    "ssim": 1.0
+  },
+  {
+    "frame": "frame-000117.jpg",
+    "next_frame": "frame-000118.jpg",
+    "ssim": 0.9999979856537171
+  },
+  {
+    "frame": "frame-000118.jpg",
+    "next_frame": "frame-000119.jpg",
+    "ssim": 0.9995818011563765
+  },
+  {
+    "frame": "frame-000119.jpg",
+    "next_frame": "frame-000120.jpg",
+    "ssim": 0.9999302376934711
+  },
+  {
+    "frame": "frame-000120.jpg",
+    "next_frame": "frame-000121.jpg",
+    "ssim": 0.9990396816800687
+  },
+  {
+    "frame": "frame-000121.jpg",
+    "next_frame": "frame-000122.jpg",
+    "ssim": 0.9997754189236506
+  },
+  {
+    "frame": "frame-000122.jpg",
+    "next_frame": "frame-000123.jpg",
+    "ssim": 0.9999960065963147
+  },
+  {
+    "frame": "frame-000123.jpg",
+    "next_frame": "frame-000124.jpg",
+    "ssim": 0.9999902139224404
+  },
+  {
+    "frame": "frame-000124.jpg",
+    "next_frame": "frame-000125.jpg",
+    "ssim": 0.9999835359517801
+  },
+  {
+    "frame": "frame-000125.jpg",
+    "next_frame": "frame-000126.jpg",
+    "ssim": 0.9999988052305167
+  },
+  {
+    "frame": "frame-000126.jpg",
+    "next_frame": "frame-000127.jpg",
+    "ssim": 0.9999834795078503
+  },
+  {
+    "frame": "frame-000127.jpg",
+    "next_frame": "frame-000128.jpg",
+    "ssim": 0.9999948438592445
+  },
+  {
+    "frame": "frame-000128.jpg",
+    "next_frame": "frame-000129.jpg",
+    "ssim": 0.9999981605013307
+  },
+  {
+    "frame": "frame-000129.jpg",
+    "next_frame": "frame-000130.jpg",
+    "ssim": 0.9999988504071018
+  },
+  {
+    "frame": "frame-000130.jpg",
+    "next_frame": "frame-000131.jpg",
+    "ssim": 0.9999988502619191
+  },
+  {
+    "frame": "frame-000131.jpg",
+    "next_frame": "frame-000132.jpg",
+    "ssim": 1.0
+  },
+  {
+    "frame": "frame-000132.jpg",
+    "next_frame": "frame-000133.jpg",
+    "ssim": 0.9999994253654476
+  },
+  {
+    "frame": "frame-000133.jpg",
+    "next_frame": "frame-000134.jpg",
+    "ssim": 0.9999988052305167
+  },
+  {
+    "frame": "frame-000134.jpg",
+    "next_frame": "frame-000135.jpg",
+    "ssim": 1.0
+  },
+  {
+    "frame": "frame-000135.jpg",
+    "next_frame": "frame-000136.jpg",
+    "ssim": 0.9999988052305167
+  },
+  {
+    "frame": "frame-000136.jpg",
+    "next_frame": "frame-000137.jpg",
+    "ssim": 0.9999988052305167
+  },
+  {
+    "frame": "frame-000137.jpg",
+    "next_frame": "frame-000138.jpg",
+    "ssim": 0.9999988052305167
+  },
+  {
+    "frame": "frame-000138.jpg",
+    "next_frame": "frame-000139.jpg",
+    "ssim": 0.9999863359258024
+  }
+]

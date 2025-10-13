@@ -1,0 +1,186 @@
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<title>Video Forensic Report - sample.mp4</title> 
+<style> 
+body { font-family: Arial, sans-serif; max-width: 900px; margin: 2rem; } 
+pre { background:#f4f4f4; padding:1rem; overflow:auto; } 
+.anomaly { color: darkred; } 
+.thumb { max-width: 240px; border:1px solid #ccc; padding:4px; margin:6px; } 
+</style> 
+</head> 
+<body> 
+<h1>Video Forensic Report</h1> 
+<p><strong>Video:</strong> sample.mp4</p> 
+<p><strong>SHA-256:</strong> ff36a4261a5090120b8224860366ce8e14a6ff48475186eb0b4b466599f21db3</p> 
+<p><strong>Generated (UTC):</strong> 2025-10-13T18:46:12.219281</p> 
+  <h2>ffprobe metadata</h2>
+  <pre>{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1920,
+      "height": 1080,
+      "coded_width": 1920,
+      "coded_height": 1080,
+      "has_b_frames": 1,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 40,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "chroma_location": "left",
+      "field_order": "progressive",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "30/1",
+      "avg_frame_rate": "30/1",
+      "time_base": "1/15360",
+      "start_pts": 512,
+      "start_time": "0.033333",
+      "duration_ts": 354816,
+      "duration": "23.100000",
+      "bit_rate": "917616",
+      "bits_per_raw_sample": "8",
+      "extradata_size": 45,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "ISO Media file produced by Google Inc.",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "44100",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/44100",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 1023422,
+      "duration": "23.206848",
+      "bit_rate": "127849",
+      "extradata_size": 16,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "ISO Media file produced by Google Inc.",
+        "vendor_id": "[0][0][0][0]"
+      }
+    }
+  ],
+  "format": {
+    "filename": "C:\\Users\\ragha\\Downloads\\sample.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "23.206848",
+    "size": "3033631",
+    "bit_rate": "1045770",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso6iso2avc1mp41",
+      "title": "Sabrina Carpenter Kissing Screen Wallpaper 4K HD",
+      "artist": "Estawky",
+      "encoder": "Lavf60.3.100"
+    }
+  }
+}</pre>
+
+  <h2>Flagged temporal anomalies (low SSIM)</h2>
+  <p>Threshold used: SSIM &lt; 0.60</p>
+<p>No low-SSIM anomalies detected.</p>
+  <h2>Frame index (first 20 entries)</h2>
+  <pre>
+{"frame": "frame-000001.jpg", "path": "results\\frames\\frame-000001.jpg", "phash": "d5eb42b54ab51196", "sha256": "ad3f06278a70a636d6447b84c27d765ffd076c1888b7d23eceaf8981a3690487"}
+{"frame": "frame-000002.jpg", "path": "results\\frames\\frame-000002.jpg", "phash": "d5eb54b50a9469a6", "sha256": "9a4e453b1ada07bf0a2ca11bad867406c10de0f00ccf0182b683b3e06bc97cd3"}
+{"frame": "frame-000003.jpg", "path": "results\\frames\\frame-000003.jpg", "phash": "d5ea0ad555aa2a55", "sha256": "aaf12dab819030c738cac8ea001f6a2d7eb30273a9f4760866f8b6aa704f55da"}
+{"frame": "frame-000004.jpg", "path": "results\\frames\\frame-000004.jpg", "phash": "d5ab2aa84aab5a55", "sha256": "38d702400d523b8e5e7582dce44aadb7aec87c2ed4d3e5edc8b0cf8115183fc9"}
+{"frame": "frame-000005.jpg", "path": "results\\frames\\frame-000005.jpg", "phash": "d5a5a9a8a9a52baa", "sha256": "d08379e631d25011aaec8c7fa68bc349695742aae434d5a98cd9b88a80d21c31"}
+{"frame": "frame-000006.jpg", "path": "results\\frames\\frame-000006.jpg", "phash": "d3aab2a52596a5a5", "sha256": "6dbac04a513ef858f5a4ac00ee4da4069d8df98747007f152f2327f1b5c0356a"}
+{"frame": "frame-000007.jpg", "path": "results\\frames\\frame-000007.jpg", "phash": "c9a591a4569bb4b6", "sha256": "70dfe79c805b65f7213f8486f64798818ca29fadc5adb24ec2abdf88d73dfbbd"}
+{"frame": "frame-000008.jpg", "path": "results\\frames\\frame-000008.jpg", "phash": "e5969a93d991139c", "sha256": "1275dd5219d1f40aa8466fbbee6064f96eaa41e1305885d1d741420a758abe25"}
+{"frame": "frame-000009.jpg", "path": "results\\frames\\frame-000009.jpg", "phash": "f59bcb8cccce1888", "sha256": "2b0024faacd8aaf129b1d49b8a95b9a015e18dd05aa09efa8ecb17e62a43cab4"}
+{"frame": "frame-000010.jpg", "path": "results\\frames\\frame-000010.jpg", "phash": "b5d9448e47c0c78f", "sha256": "605a3a4e9887a14af610e3aa9357e61707ef3d0f72afb3873c7b6d622cc8e8f0"}
+{"frame": "frame-000011.jpg", "path": "results\\frames\\frame-000011.jpg", "phash": "9dcce4c3e1c7c017", "sha256": "f1f8ef0c7f462bab77db6ec14dfcae86a1cf33d45a21e74e99d8d61cebf634ae"}
+{"frame": "frame-000012.jpg", "path": "results\\frames\\frame-000012.jpg", "phash": "95e771f0f0e160b8", "sha256": "eec90e831fb2e3431143aeb740a585b1b21c7483133474a1b3b14d394cfbeea2"}
+{"frame": "frame-000013.jpg", "path": "results\\frames\\frame-000013.jpg", "phash": "d5aa70f52a55aa52", "sha256": "6be9f7254dc3624abb4196312f63c32d2d0a7734d6240d920ae8b68054186678"}
+{"frame": "frame-000014.jpg", "path": "results\\frames\\frame-000014.jpg", "phash": "d5aaa9aab5aa42a5", "sha256": "020455612b4dbde0c0d9630d3e32b89ca106da475bf195f950f125931723084f"}
+{"frame": "frame-000015.jpg", "path": "results\\frames\\frame-000015.jpg", "phash": "d2a5b5ad96ad4294", "sha256": "f353357be9cd04c55c0d1007510cd7dcfafc3802cd9f066c99433385d3fd84b6"}
+{"frame": "frame-000016.jpg", "path": "results\\frames\\frame-000016.jpg", "phash": "cbb4a59465b45aa5", "sha256": "ab45df3110f4897bf8cfd108a176116125e50016c4613e63432f2775b024f2db"}
+{"frame": "frame-000017.jpg", "path": "results\\frames\\frame-000017.jpg", "phash": "e99696926c966996", "sha256": "0f31c5bce85fa340f53ec104be2f5dcdf45d073fafb106efc2ad6baa2ecfb071"}
+{"frame": "frame-000018.jpg", "path": "results\\frames\\frame-000018.jpg", "phash": "e493939b66986d92", "sha256": "6fd23e2c0dd7c2fb0be6d3cad6828b575c662a99b6af554052c7a5e936941a38"}
+{"frame": "frame-000019.jpg", "path": "results\\frames\\frame-000019.jpg", "phash": "e698999966936699", "sha256": "5d06f8321286392596bb18adcb441d428de6480658d6999afd2c4f57a7630833"}
+{"frame": "frame-000020.jpg", "path": "results\\frames\\frame-000020.jpg", "phash": "e6dbcc996698238c", "sha256": "25c58fc1e1a64a88773ab43aab9ec4ae24ed3c398d2f8d7c40a527cd8857c31e"}
+</pre>
+</body></html>
