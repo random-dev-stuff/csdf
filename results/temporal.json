@@ -2,691 +2,761 @@
   {
     "frame": "frame-000001.jpg",
     "next_frame": "frame-000002.jpg",
-    "ssim": 0.9969875086592095
+    "ssim": 0.5511432622297024
   },
   {
     "frame": "frame-000002.jpg",
     "next_frame": "frame-000003.jpg",
-    "ssim": 0.9996522092269772
+    "ssim": 0.5699120166485798
   },
   {
     "frame": "frame-000003.jpg",
     "next_frame": "frame-000004.jpg",
-    "ssim": 0.9986884676542515
+    "ssim": 0.5651115720656208
   },
   {
     "frame": "frame-000004.jpg",
     "next_frame": "frame-000005.jpg",
-    "ssim": 0.997593396757612
+    "ssim": 0.5927247880492685
   },
   {
     "frame": "frame-000005.jpg",
     "next_frame": "frame-000006.jpg",
-    "ssim": 0.9970503040653417
+    "ssim": 0.5975455155926537
   },
   {
     "frame": "frame-000006.jpg",
     "next_frame": "frame-000007.jpg",
-    "ssim": 0.9958497061239879
+    "ssim": 0.6284397665908735
   },
   {
     "frame": "frame-000007.jpg",
     "next_frame": "frame-000008.jpg",
-    "ssim": 0.9956553744926008
+    "ssim": 0.6364942650806485
   },
   {
     "frame": "frame-000008.jpg",
     "next_frame": "frame-000009.jpg",
-    "ssim": 0.9956058370706187
+    "ssim": 0.6675774125531042
   },
   {
     "frame": "frame-000009.jpg",
     "next_frame": "frame-000010.jpg",
-    "ssim": 0.996154334397727
+    "ssim": 0.6667252837417902
   },
   {
     "frame": "frame-000010.jpg",
     "next_frame": "frame-000011.jpg",
-    "ssim": 0.9962983881273343
+    "ssim": 0.6975754920080605
   },
   {
     "frame": "frame-000011.jpg",
     "next_frame": "frame-000012.jpg",
-    "ssim": 0.9970403063366907
+    "ssim": 0.7075320037709112
   },
   {
     "frame": "frame-000012.jpg",
     "next_frame": "frame-000013.jpg",
-    "ssim": 0.9911194610561254
+    "ssim": 0.7390616943018709
   },
   {
     "frame": "frame-000013.jpg",
     "next_frame": "frame-000014.jpg",
-    "ssim": 0.9670346905590899
+    "ssim": 0.7424980811448699
   },
   {
     "frame": "frame-000014.jpg",
     "next_frame": "frame-000015.jpg",
-    "ssim": 0.9430761200005622
+    "ssim": 0.7689628301031659
   },
   {
     "frame": "frame-000015.jpg",
     "next_frame": "frame-000016.jpg",
-    "ssim": 0.9285841399473723
+    "ssim": 0.7734319062505164
   },
   {
     "frame": "frame-000016.jpg",
     "next_frame": "frame-000017.jpg",
-    "ssim": 0.9337167920174448
+    "ssim": 0.7973262825984463
   },
   {
     "frame": "frame-000017.jpg",
     "next_frame": "frame-000018.jpg",
-    "ssim": 0.9318184651871187
+    "ssim": 0.6097129934909847
   },
   {
     "frame": "frame-000018.jpg",
     "next_frame": "frame-000019.jpg",
-    "ssim": 0.9303406729146565
+    "ssim": 0.8134083859198198
   },
   {
     "frame": "frame-000019.jpg",
     "next_frame": "frame-000020.jpg",
-    "ssim": 0.9229732635921218
+    "ssim": 0.7874752981995069
   },
   {
     "frame": "frame-000020.jpg",
     "next_frame": "frame-000021.jpg",
-    "ssim": 0.9256584076265355
+    "ssim": 0.7797052115866402
   },
   {
     "frame": "frame-000021.jpg",
     "next_frame": "frame-000022.jpg",
-    "ssim": 0.9323408688524119
+    "ssim": 0.776659723209403
   },
   {
     "frame": "frame-000022.jpg",
     "next_frame": "frame-000023.jpg",
-    "ssim": 0.9370690615032109
+    "ssim": 0.7648305484453022
   },
   {
     "frame": "frame-000023.jpg",
     "next_frame": "frame-000024.jpg",
-    "ssim": 0.9536643673970577
+    "ssim": 0.7664316223822693
   },
   {
     "frame": "frame-000024.jpg",
     "next_frame": "frame-000025.jpg",
-    "ssim": 0.9426477182110932
+    "ssim": 0.7645146060993144
   },
   {
     "frame": "frame-000025.jpg",
     "next_frame": "frame-000026.jpg",
-    "ssim": 0.9430399797821941
+    "ssim": 0.7621403690322539
   },
   {
     "frame": "frame-000026.jpg",
     "next_frame": "frame-000027.jpg",
-    "ssim": 0.9437648200163179
+    "ssim": 0.7657261215654984
   },
   {
     "frame": "frame-000027.jpg",
     "next_frame": "frame-000028.jpg",
-    "ssim": 0.9412639332621572
+    "ssim": 0.757699827169181
   },
   {
     "frame": "frame-000028.jpg",
     "next_frame": "frame-000029.jpg",
-    "ssim": 0.9522375071546396
+    "ssim": 0.7704028048705359
   },
   {
     "frame": "frame-000029.jpg",
     "next_frame": "frame-000030.jpg",
-    "ssim": 0.9337017371218022
+    "ssim": 0.7827290779631662
   },
   {
     "frame": "frame-000030.jpg",
     "next_frame": "frame-000031.jpg",
-    "ssim": 0.9213663171776595
+    "ssim": 0.7914678061938372
   },
   {
     "frame": "frame-000031.jpg",
     "next_frame": "frame-000032.jpg",
-    "ssim": 0.9653449535298879
+    "ssim": 0.7925699314876962
   },
   {
     "frame": "frame-000032.jpg",
     "next_frame": "frame-000033.jpg",
-    "ssim": 0.9319061492462963
+    "ssim": 0.7980385918360834
   },
   {
     "frame": "frame-000033.jpg",
     "next_frame": "frame-000034.jpg",
-    "ssim": 0.9189292108716391
+    "ssim": 0.8067465587468567
   },
   {
     "frame": "frame-000034.jpg",
     "next_frame": "frame-000035.jpg",
-    "ssim": 0.9344350861576695
+    "ssim": 0.5095699094194088
   },
   {
     "frame": "frame-000035.jpg",
     "next_frame": "frame-000036.jpg",
-    "ssim": 0.9244364271889066
+    "ssim": 0.6864199495886306
   },
   {
     "frame": "frame-000036.jpg",
     "next_frame": "frame-000037.jpg",
-    "ssim": 0.9279906584316251
+    "ssim": 0.6698572058340304
   },
   {
     "frame": "frame-000037.jpg",
     "next_frame": "frame-000038.jpg",
-    "ssim": 0.9015630823576182
+    "ssim": 0.6806137153530453
   },
   {
     "frame": "frame-000038.jpg",
     "next_frame": "frame-000039.jpg",
-    "ssim": 0.9277070030412874
+    "ssim": 0.6583675656696913
   },
   {
     "frame": "frame-000039.jpg",
     "next_frame": "frame-000040.jpg",
-    "ssim": 0.8872175163644918
+    "ssim": 0.6623975122357292
   },
   {
     "frame": "frame-000040.jpg",
     "next_frame": "frame-000041.jpg",
-    "ssim": 0.8784169452644861
+    "ssim": 0.6570855104554878
   },
   {
     "frame": "frame-000041.jpg",
     "next_frame": "frame-000042.jpg",
-    "ssim": 0.8926546725473123
+    "ssim": 0.6639543889277026
   },
   {
     "frame": "frame-000042.jpg",
     "next_frame": "frame-000043.jpg",
-    "ssim": 0.9032560504244532
+    "ssim": 0.6473232742580443
   },
   {
     "frame": "frame-000043.jpg",
     "next_frame": "frame-000044.jpg",
-    "ssim": 0.892700170547982
+    "ssim": 0.6565393535424797
   },
   {
     "frame": "frame-000044.jpg",
     "next_frame": "frame-000045.jpg",
-    "ssim": 0.8548702211581154
+    "ssim": 0.6508717424074646
   },
   {
     "frame": "frame-000045.jpg",
     "next_frame": "frame-000046.jpg",
-    "ssim": 0.8609891779860541
+    "ssim": 0.6622348888219249
   },
   {
     "frame": "frame-000046.jpg",
     "next_frame": "frame-000047.jpg",
-    "ssim": 0.8913309462381515
+    "ssim": 0.6558702516079882
   },
   {
     "frame": "frame-000047.jpg",
     "next_frame": "frame-000048.jpg",
-    "ssim": 0.8496025915347706
+    "ssim": 0.6745221351509932
   },
   {
     "frame": "frame-000048.jpg",
     "next_frame": "frame-000049.jpg",
-    "ssim": 0.8332596131014895
+    "ssim": 0.6772910361169522
   },
   {
     "frame": "frame-000049.jpg",
     "next_frame": "frame-000050.jpg",
-    "ssim": 0.8237575534225713
+    "ssim": 0.697439305543298
   },
   {
     "frame": "frame-000050.jpg",
     "next_frame": "frame-000051.jpg",
-    "ssim": 0.8568551855002658
+    "ssim": 0.3723734277845574
   },
   {
     "frame": "frame-000051.jpg",
     "next_frame": "frame-000052.jpg",
-    "ssim": 0.8542153239749486
+    "ssim": 0.400359313324768
   },
   {
     "frame": "frame-000052.jpg",
     "next_frame": "frame-000053.jpg",
-    "ssim": 0.8460049969053557
+    "ssim": 0.40317071078191535
   },
   {
     "frame": "frame-000053.jpg",
     "next_frame": "frame-000054.jpg",
-    "ssim": 0.8424627903436871
+    "ssim": 0.4115113977392656
   },
   {
     "frame": "frame-000054.jpg",
     "next_frame": "frame-000055.jpg",
-    "ssim": 0.8452948095127298
+    "ssim": 0.4160118492860887
   },
   {
     "frame": "frame-000055.jpg",
     "next_frame": "frame-000056.jpg",
-    "ssim": 0.8578102672065612
+    "ssim": 0.4218075998150715
   },
   {
     "frame": "frame-000056.jpg",
     "next_frame": "frame-000057.jpg",
-    "ssim": 0.8591239324784692
+    "ssim": 0.44301887631974
   },
   {
     "frame": "frame-000057.jpg",
     "next_frame": "frame-000058.jpg",
-    "ssim": 0.8838002747469202
+    "ssim": 0.4636344034176037
   },
   {
     "frame": "frame-000058.jpg",
     "next_frame": "frame-000059.jpg",
-    "ssim": 0.9408407304407641
+    "ssim": 0.4791836014668587
   },
   {
     "frame": "frame-000059.jpg",
     "next_frame": "frame-000060.jpg",
-    "ssim": 0.9638468459524718
+    "ssim": 0.49671341377690587
   },
   {
     "frame": "frame-000060.jpg",
     "next_frame": "frame-000061.jpg",
-    "ssim": 0.8844568147047953
+    "ssim": 0.508920376266367
   },
   {
     "frame": "frame-000061.jpg",
     "next_frame": "frame-000062.jpg",
-    "ssim": 0.8238876630863672
+    "ssim": 0.5147086067896701
   },
   {
     "frame": "frame-000062.jpg",
     "next_frame": "frame-000063.jpg",
-    "ssim": 0.8477363397264769
+    "ssim": 0.5240433306620467
   },
   {
     "frame": "frame-000063.jpg",
     "next_frame": "frame-000064.jpg",
-    "ssim": 0.8345938922334849
+    "ssim": 0.5418955922668821
   },
   {
     "frame": "frame-000064.jpg",
     "next_frame": "frame-000065.jpg",
-    "ssim": 0.8268023491430156
+    "ssim": 0.5632945986574278
   },
   {
     "frame": "frame-000065.jpg",
     "next_frame": "frame-000066.jpg",
-    "ssim": 0.842746946552889
+    "ssim": 0.5718267880420963
   },
   {
     "frame": "frame-000066.jpg",
     "next_frame": "frame-000067.jpg",
-    "ssim": 0.8268120962877192
+    "ssim": 0.5816671345834307
   },
   {
     "frame": "frame-000067.jpg",
     "next_frame": "frame-000068.jpg",
-    "ssim": 0.8266664416736903
+    "ssim": 0.6012790191183272
   },
   {
     "frame": "frame-000068.jpg",
     "next_frame": "frame-000069.jpg",
-    "ssim": 0.8052075051218478
+    "ssim": 0.26651389501610734
   },
   {
     "frame": "frame-000069.jpg",
     "next_frame": "frame-000070.jpg",
-    "ssim": 0.7928995544590933
+    "ssim": 0.6497083584300793
   },
   {
     "frame": "frame-000070.jpg",
     "next_frame": "frame-000071.jpg",
-    "ssim": 0.7873249463739951
+    "ssim": 0.6647057304885445
   },
   {
     "frame": "frame-000071.jpg",
     "next_frame": "frame-000072.jpg",
-    "ssim": 0.7981227541926222
+    "ssim": 0.676226622053605
   },
   {
     "frame": "frame-000072.jpg",
     "next_frame": "frame-000073.jpg",
-    "ssim": 0.8216629954761401
+    "ssim": 0.6795188037434937
   },
   {
     "frame": "frame-000073.jpg",
     "next_frame": "frame-000074.jpg",
-    "ssim": 0.8426137483782982
+    "ssim": 0.6928387967821529
   },
   {
     "frame": "frame-000074.jpg",
     "next_frame": "frame-000075.jpg",
-    "ssim": 0.8384834678635239
+    "ssim": 0.6892852972387509
   },
   {
     "frame": "frame-000075.jpg",
     "next_frame": "frame-000076.jpg",
-    "ssim": 0.8228232615578485
+    "ssim": 0.677745293430433
   },
   {
     "frame": "frame-000076.jpg",
     "next_frame": "frame-000077.jpg",
-    "ssim": 0.8664175656320893
+    "ssim": 0.6640452393004908
   },
   {
     "frame": "frame-000077.jpg",
     "next_frame": "frame-000078.jpg",
-    "ssim": 0.9675257112267467
+    "ssim": 0.6647359746560154
   },
   {
     "frame": "frame-000078.jpg",
     "next_frame": "frame-000079.jpg",
-    "ssim": 0.9991420355686176
+    "ssim": 0.6640002291048464
   },
   {
     "frame": "frame-000079.jpg",
     "next_frame": "frame-000080.jpg",
-    "ssim": 0.9996685516371007
+    "ssim": 0.6702661742250816
   },
   {
     "frame": "frame-000080.jpg",
     "next_frame": "frame-000081.jpg",
-    "ssim": 0.9998467336659204
+    "ssim": 0.6919202317073229
   },
   {
     "frame": "frame-000081.jpg",
     "next_frame": "frame-000082.jpg",
-    "ssim": 0.9999277058188721
+    "ssim": 0.6825735115249093
   },
   {
     "frame": "frame-000082.jpg",
     "next_frame": "frame-000083.jpg",
-    "ssim": 0.9998232998495962
+    "ssim": 0.6788379838429432
   },
   {
     "frame": "frame-000083.jpg",
     "next_frame": "frame-000084.jpg",
-    "ssim": 0.999950058078457
+    "ssim": 0.6747162349754434
   },
   {
     "frame": "frame-000084.jpg",
     "next_frame": "frame-000085.jpg",
-    "ssim": 0.9999438838981008
+    "ssim": 0.6721817347821504
   },
   {
     "frame": "frame-000085.jpg",
     "next_frame": "frame-000086.jpg",
-    "ssim": 0.9999403169646481
+    "ssim": 0.6789064238574802
   },
   {
     "frame": "frame-000086.jpg",
     "next_frame": "frame-000087.jpg",
-    "ssim": 0.9999781562462089
+    "ssim": 0.48387299300392517
   },
   {
     "frame": "frame-000087.jpg",
     "next_frame": "frame-000088.jpg",
-    "ssim": 0.9998871005513377
+    "ssim": 0.7815512404328187
   },
   {
     "frame": "frame-000088.jpg",
     "next_frame": "frame-000089.jpg",
-    "ssim": 0.9993134687579691
+    "ssim": 0.735663235544341
   },
   {
     "frame": "frame-000089.jpg",
     "next_frame": "frame-000090.jpg",
-    "ssim": 0.9999054162534804
+    "ssim": 0.7106315684192109
   },
   {
     "frame": "frame-000090.jpg",
     "next_frame": "frame-000091.jpg",
-    "ssim": 0.9988337000323154
+    "ssim": 0.6951140493827057
   },
   {
     "frame": "frame-000091.jpg",
     "next_frame": "frame-000092.jpg",
-    "ssim": 0.999585298023359
+    "ssim": 0.6738162051936937
   },
   {
     "frame": "frame-000092.jpg",
     "next_frame": "frame-000093.jpg",
-    "ssim": 0.9999848502350867
+    "ssim": 0.6639120667721093
   },
   {
     "frame": "frame-000093.jpg",
     "next_frame": "frame-000094.jpg",
-    "ssim": 0.9999298073823992
+    "ssim": 0.6606907616725578
   },
   {
     "frame": "frame-000094.jpg",
     "next_frame": "frame-000095.jpg",
-    "ssim": 0.999949017720983
+    "ssim": 0.6643501167912723
   },
   {
     "frame": "frame-000095.jpg",
     "next_frame": "frame-000096.jpg",
-    "ssim": 0.999998275350949
+    "ssim": 0.709719897704441
   },
   {
     "frame": "frame-000096.jpg",
     "next_frame": "frame-000097.jpg",
-    "ssim": 0.9999492809944055
+    "ssim": 0.7018073133969429
   },
   {
     "frame": "frame-000097.jpg",
     "next_frame": "frame-000098.jpg",
-    "ssim": 0.9999631929012768
+    "ssim": 0.6947283796300275
   },
   {
     "frame": "frame-000098.jpg",
     "next_frame": "frame-000099.jpg",
-    "ssim": 0.9999903684911307
+    "ssim": 0.6801305442827397
   },
   {
     "frame": "frame-000099.jpg",
     "next_frame": "frame-000100.jpg",
-    "ssim": 0.999997010715289
+    "ssim": 0.6846407078490414
   },
   {
     "frame": "frame-000100.jpg",
     "next_frame": "frame-000101.jpg",
-    "ssim": 0.9999972534545457
+    "ssim": 0.6898324340594227
   },
   {
     "frame": "frame-000101.jpg",
     "next_frame": "frame-000102.jpg",
-    "ssim": 0.9999994251309712
+    "ssim": 0.7105395845751712
   },
   {
     "frame": "frame-000102.jpg",
     "next_frame": "frame-000103.jpg",
-    "ssim": 0.9999931466362192
+    "ssim": 0.69992192247735
   },
   {
     "frame": "frame-000103.jpg",
     "next_frame": "frame-000104.jpg",
-    "ssim": 0.999994560057746
+    "ssim": 0.702903545489873
   },
   {
     "frame": "frame-000104.jpg",
     "next_frame": "frame-000105.jpg",
-    "ssim": 1.0
+    "ssim": 0.6911053014113918
   },
   {
     "frame": "frame-000105.jpg",
     "next_frame": "frame-000106.jpg",
-    "ssim": 0.999988874158683
+    "ssim": 0.6914613791527051
   },
   {
     "frame": "frame-000106.jpg",
     "next_frame": "frame-000107.jpg",
-    "ssim": 0.9999897592568349
+    "ssim": 0.7011869857995141
   },
   {
     "frame": "frame-000107.jpg",
     "next_frame": "frame-000108.jpg",
-    "ssim": 1.0
+    "ssim": 0.2838705607428051
   },
   {
     "frame": "frame-000108.jpg",
     "next_frame": "frame-000109.jpg",
-    "ssim": 0.9999952839236379
+    "ssim": 0.7450548542652315
   },
   {
     "frame": "frame-000109.jpg",
     "next_frame": "frame-000110.jpg",
-    "ssim": 0.9999869578785073
+    "ssim": 0.7364506473436718
   },
   {
     "frame": "frame-000110.jpg",
     "next_frame": "frame-000111.jpg",
-    "ssim": 0.9999986405918188
+    "ssim": 0.7270974481562702
   },
   {
     "frame": "frame-000111.jpg",
     "next_frame": "frame-000112.jpg",
-    "ssim": 0.9999996629574961
+    "ssim": 0.7236353034242974
   },
   {
     "frame": "frame-000112.jpg",
     "next_frame": "frame-000113.jpg",
-    "ssim": 0.9999968151975858
+    "ssim": 0.7234518461424949
   },
   {
     "frame": "frame-000113.jpg",
     "next_frame": "frame-000114.jpg",
-    "ssim": 0.9999977271091302
+    "ssim": 0.7195769060336638
   },
   {
     "frame": "frame-000114.jpg",
     "next_frame": "frame-000115.jpg",
-    "ssim": 0.9999888969031485
+    "ssim": 0.7194132037046161
   },
   {
     "frame": "frame-000115.jpg",
     "next_frame": "frame-000116.jpg",
-    "ssim": 0.9999891680994691
+    "ssim": 0.7172019895688695
   },
   {
     "frame": "frame-000116.jpg",
     "next_frame": "frame-000117.jpg",
-    "ssim": 1.0
+    "ssim": 0.7158754854156967
   },
   {
     "frame": "frame-000117.jpg",
     "next_frame": "frame-000118.jpg",
-    "ssim": 0.9999979856537171
+    "ssim": 0.7132724403803313
   },
   {
     "frame": "frame-000118.jpg",
     "next_frame": "frame-000119.jpg",
-    "ssim": 0.9995818011563765
+    "ssim": 0.7104804623675846
   },
   {
     "frame": "frame-000119.jpg",
     "next_frame": "frame-000120.jpg",
-    "ssim": 0.9999302376934711
+    "ssim": 0.7108423707730605
   },
   {
     "frame": "frame-000120.jpg",
     "next_frame": "frame-000121.jpg",
-    "ssim": 0.9990396816800687
+    "ssim": 0.4669691100259173
   },
   {
     "frame": "frame-000121.jpg",
     "next_frame": "frame-000122.jpg",
-    "ssim": 0.9997754189236506
+    "ssim": 0.7798318125590985
   },
   {
     "frame": "frame-000122.jpg",
     "next_frame": "frame-000123.jpg",
-    "ssim": 0.9999960065963147
+    "ssim": 0.7707807801920401
   },
   {
     "frame": "frame-000123.jpg",
     "next_frame": "frame-000124.jpg",
-    "ssim": 0.9999902139224404
+    "ssim": 0.7762063818867263
   },
   {
     "frame": "frame-000124.jpg",
     "next_frame": "frame-000125.jpg",
-    "ssim": 0.9999835359517801
+    "ssim": 0.8020654506608309
   },
   {
     "frame": "frame-000125.jpg",
     "next_frame": "frame-000126.jpg",
-    "ssim": 0.9999988052305167
+    "ssim": 0.8156203058067648
   },
   {
     "frame": "frame-000126.jpg",
     "next_frame": "frame-000127.jpg",
-    "ssim": 0.9999834795078503
+    "ssim": 0.8165508667173127
   },
   {
     "frame": "frame-000127.jpg",
     "next_frame": "frame-000128.jpg",
-    "ssim": 0.9999948438592445
+    "ssim": 0.8206310706336714
   },
   {
     "frame": "frame-000128.jpg",
     "next_frame": "frame-000129.jpg",
-    "ssim": 0.9999981605013307
+    "ssim": 0.8164289328306864
   },
   {
     "frame": "frame-000129.jpg",
     "next_frame": "frame-000130.jpg",
-    "ssim": 0.9999988504071018
+    "ssim": 0.8276866621371722
   },
   {
     "frame": "frame-000130.jpg",
     "next_frame": "frame-000131.jpg",
-    "ssim": 0.9999988502619191
+    "ssim": 0.8362007112855652
   },
   {
     "frame": "frame-000131.jpg",
     "next_frame": "frame-000132.jpg",
-    "ssim": 1.0
+    "ssim": 0.8418390473550721
   },
   {
     "frame": "frame-000132.jpg",
     "next_frame": "frame-000133.jpg",
-    "ssim": 0.9999994253654476
+    "ssim": 0.8451340336989333
   },
   {
     "frame": "frame-000133.jpg",
     "next_frame": "frame-000134.jpg",
-    "ssim": 0.9999988052305167
+    "ssim": 0.8502423286922762
   },
   {
     "frame": "frame-000134.jpg",
     "next_frame": "frame-000135.jpg",
-    "ssim": 1.0
+    "ssim": 0.867100212357698
   },
   {
     "frame": "frame-000135.jpg",
     "next_frame": "frame-000136.jpg",
-    "ssim": 0.9999988052305167
+    "ssim": 0.8686873838601173
   },
   {
     "frame": "frame-000136.jpg",
     "next_frame": "frame-000137.jpg",
-    "ssim": 0.9999988052305167
+    "ssim": 0.8665658614909286
   },
   {
     "frame": "frame-000137.jpg",
     "next_frame": "frame-000138.jpg",
-    "ssim": 0.9999988052305167
+    "ssim": 0.8698680078620967
   },
   {
     "frame": "frame-000138.jpg",
     "next_frame": "frame-000139.jpg",
-    "ssim": 0.9999863359258024
+    "ssim": 0.8575777441118895
+  },
+  {
+    "frame": "frame-000139.jpg",
+    "next_frame": "frame-000140.jpg",
+    "ssim": 0.522181746369549
+  },
+  {
+    "frame": "frame-000140.jpg",
+    "next_frame": "frame-000141.jpg",
+    "ssim": 0.7177189865519249
+  },
+  {
+    "frame": "frame-000141.jpg",
+    "next_frame": "frame-000142.jpg",
+    "ssim": 0.7047320786262822
+  },
+  {
+    "frame": "frame-000142.jpg",
+    "next_frame": "frame-000143.jpg",
+    "ssim": 0.7153742737161921
+  },
+  {
+    "frame": "frame-000143.jpg",
+    "next_frame": "frame-000144.jpg",
+    "ssim": 0.7185045871531506
+  },
+  {
+    "frame": "frame-000144.jpg",
+    "next_frame": "frame-000145.jpg",
+    "ssim": 0.7159125192695208
+  },
+  {
+    "frame": "frame-000145.jpg",
+    "next_frame": "frame-000146.jpg",
+    "ssim": 0.72772235660722
+  },
+  {
+    "frame": "frame-000146.jpg",
+    "next_frame": "frame-000147.jpg",
+    "ssim": 0.722404246390776
+  },
+  {
+    "frame": "frame-000147.jpg",
+    "next_frame": "frame-000148.jpg",
+    "ssim": 0.7228114812664915
+  },
+  {
+    "frame": "frame-000148.jpg",
+    "next_frame": "frame-000149.jpg",
+    "ssim": 0.7272550057846142
+  },
+  {
+    "frame": "frame-000149.jpg",
+    "next_frame": "frame-000150.jpg",
+    "ssim": 0.7157229494874557
+  },
+  {
+    "frame": "frame-000150.jpg",
+    "next_frame": "frame-000151.jpg",
+    "ssim": 0.7126982231090865
+  },
+  {
+    "frame": "frame-000151.jpg",
+    "next_frame": "frame-000152.jpg",
+    "ssim": 0.7120191070948155
+  },
+  {
+    "frame": "frame-000152.jpg",
+    "next_frame": "frame-000153.jpg",
+    "ssim": 0.7136645516572699
   }
 ]

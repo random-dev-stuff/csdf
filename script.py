@@ -8,20 +8,31 @@ import shutil
 import glob 
 from datetime import datetime 
 from pathlib import Path 
-# Image/frame processing 
 from PIL import Image 
 import imagehash 
 import cv2 
 from skimage.metrics import structural_similarity as ssim 
-# GUI file picker 
 from tkinter import Tk 
 from tkinter.filedialog import askopenfilename 
-# ---------- Utility functions ---------- 
+ 
 def sha256_file(path):
+    """Compute SHA-256 hash of a file with proper error handling."""
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"File not found: {path}")
+    
+    if not os.path.isfile(path):
+        raise ValueError(f"Path is not a file: {path}")
+    
     h = hashlib.sha256()
-    with open(path, "rb") as f:
-        for chunk in iter(lambda: f.read(8192), b""):
-            h.update(chunk)
+    try:
+        with open(path, "rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                h.update(chunk)
+    except PermissionError:
+        raise PermissionError(f"Permission denied accessing file: {path}")
+    except Exception as e:
+        raise RuntimeError(f"Error reading file {path}: {str(e)}")
+    
     return h.hexdigest() 
 def run_ffprobe(path): 
     """Return ffprobe JSON (requires ffprobe/ffmpeg installed).""" 
@@ -119,8 +130,7 @@ pre {{ background:#f4f4f4; padding:1rem; overflow:auto; }}
             f1 = os.path.join("frames", a["frame"])
             f2 = os.path.join("frames", a["next_frame"]) 
             html += f'<li class="anomaly">{a["frame"]} -> {a["next_frame"]} (ssim={a["ssim"]:.3f})<br>'
-            # show thumbnails (if frames are inside results/frames)
-            # Use relative paths: results folder must contain frames/
+            
             if os.path.exists(os.path.join(results_folder, "frames", a["frame"])):
                 html += f'<img class="thumb" src="frames/{a["frame"]}"> <img class="thumb" src="frames/{a["next_frame"]}">' 
             html += "</li>\n"
@@ -142,7 +152,7 @@ pre {{ background:#f4f4f4; padding:1rem; overflow:auto; }}
     with open(out_html, "w", encoding="utf-8") as f:
         f.write(html) 
  
-# ---------- Main flow ---------- 
+
 def forensic_pipeline(video_path=None, skip=0, output_root="results", cleanup=False): 
     # Determine video_path (picker if None) 
     if not video_path: 
@@ -152,14 +162,29 @@ def forensic_pipeline(video_path=None, skip=0, output_root="results", cleanup=Fa
         if not video_path: 
             print("No file selected. Exiting.") 
             return 
- 
+
     video_path = str(Path(video_path).resolve()) 
+    
+    # Validate video file exists and is accessible
+    print(f"Video: {video_path}")
+    if not os.path.exists(video_path):
+        print(f"ERROR: Video file not found: {video_path}")
+        print("Please check the file path and try again.")
+        return
+    
+    if not os.path.isfile(video_path):
+        print(f"ERROR: Path is not a file: {video_path}")
+        return
+    
     os.makedirs(output_root, exist_ok=True) 
     frames_dir = os.path.join(output_root, "frames") 
- 
-    print(f"Video: {video_path}") 
+
     print("Computing SHA-256...") 
-    sha = sha256_file(video_path) 
+    try:
+        sha = sha256_file(video_path)
+    except Exception as e:
+        print(f"ERROR: Failed to compute SHA-256: {e}")
+        return
     print("SHA-256:", sha) 
  
     print("Extracting ffprobe metadata...") 
@@ -208,7 +233,10 @@ def forensic_pipeline(video_path=None, skip=0, output_root="results", cleanup=Fa
 
 # Main execution
 if __name__ == "__main__":
-    video_path = r"C:\Users\ragha\Downloads\sample.mp4"
+    
+    video_path = None  
+    
+    
     
     forensic_pipeline(video_path=video_path, skip=5, output_root="results", 
                      cleanup=False) 
